@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+So sometimes people can be _grumpy_ or even worse, they are very __sad__.
